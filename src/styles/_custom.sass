@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 30%
+    right: 28%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 18%
+    right: 10%
 
 
 @keyframes float1
@@ -16,3 +16,93 @@
     transform: translateY(20px)
   100%
     transform: translateY(0px)
+
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .desktop 
+    display: none
+
+.texto-negro, .texto-negro > *
+  color: #000000 !important
+
+.tarjeta.color-acento-contenido1
+  background-color: #FFFF !important
+  border: 3px solid #707070
+
+.color-custom-5
+  background-color:  #E1EFE3
+  &::before
+    background-color: #0C5E46
+
+.tarjeta.tarjeta--azul
+  background: linear-gradient(0deg,#E3ECF7, #E1EFE3)
+  background-repeat: no-repeat
+  background-size: cover
+
+.tarjeta--gris
+  background-color: #DADDDF
+
+.tarjeta.tarjeta--gris.acordion__activo
+  background-color: #E1EFE3
+
+.acordion__accion__btn--b
+  background-color: #FFCA00
+  border: 0px
+
+.tema4
+  .tarjeta-avatar 
+    height: 90%
+    position: relative
+    padding-top: 42px
+    .tarjeta 
+      padding-left: 1.2rem
+      padding-right: 1.2rem
+      p
+        font-weight: bold
+
+  .tarjeta.tarjeta--custom
+    background-color: $color-primario
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px 2.0px
+
+  .tarjeta-avatar-b__img 
+    img
+      width: 80%
+
+  .tarjeta-avatar-b .tarjeta
+    padding-left: 5%
+    margin-left: -11%
+
+  .titulo-herramientas 
+    background-image: url("../assets/curso/temas/ico-title.svg")
+    background-size: inherit
+    background-repeat: no-repeat 
+    padding-left: 1em
+    color: $color-primario
+    border-bottom: none
+
+  .bg
+    &-c8
+      position: relative
+      left: -2%
+      h3
+        color: #0C5E46
+      @media screen and ( max-width: $bp-max-lg )
+        left: -3%
+      @media screen and ( max-width: $bp-max-sm )
+        left: -4%
+
+  .bloque-texto-d.color-secundario:before
+    background-color: #E1EFE3
+
+  .linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+    background-color: $color-acento-botones
+    color: #000
+
+  .linea-tiempo-d.color-acento-botones .linea-tiempo-d__item--selected .linea-tiempo-d__item__content 
+    background-color: #FEF5E5

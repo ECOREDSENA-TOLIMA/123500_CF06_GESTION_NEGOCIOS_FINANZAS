@@ -1,9 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE_DEL_COMPONENTE_FORMATIVO',
-    descripcionCurso: 'BREVE_DESCRIPCIÓN',
+    componenteFormativo: 'Mercados financieros y destinación del efectivo',
+    descripcionCurso:
+      'La aplicación de estrategias financieras pertinentes y bien estructuradas, que garanticen la consecución de fuentes de ingresos, representan herramientas fundamentales para el funcionamiento de las empresas puesto que estas sustentarán la marcha continua de sus operaciones, además de permitir a las organizaciones crear políticas de gasto e inversión que hagan más eficiente el uso del efectivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -31,28 +32,68 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Activos y pasivos financieros',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Fuentes y usos del efectivol',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Inversión',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Financiación',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Mercados financieros',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Monetario',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Mercado de capitales',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Mercado de derivados',
+            hash: 't_3_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Indicadores bursátiles',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Tipos de indicadores bursátiles',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Métodos de cálculo de índices bursátiles',
+            hash: 't_4_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -102,28 +143,65 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: '1. Activos y pasivos financieros',
+      referencia:
+        'AulaDeEconomia. (2022). Activos financieros - rentabilidad, riesgo y liquidez [video]. Youtube. https://www.youtube.com/watch?v=Dcbgadkrehw',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=Dcbgadkrehw',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '3. Mercados financieros',
+      referencia:
+        'EALDE Business School. (marzo 5, 2018). Análisis del Riesgo de Crédito y de Mercado en los Instrumentos Financieros [video]. Youtube. https://www.youtube.com/watch?v=_q9UcSkbjh0&t=3s',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=_q9UcSkbjh0&t=3s',
+    },
+    {
+      tema: '3. Mercados financieros',
+      referencia:
+        'Pérez Fernández, R. T. (2010). Teoría y práctica de la bolsa: todo lo que debe saber el inversor sobre los mercados financieros. Madrid [España]: Diaz De Santos.',
+      tipo: 'Libro',
+      link:
+        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000066171',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: '<em>Benchmark</em>',
+      significado:
+        'Punto de referencia utilizado para medir el rendimiento de una inversión.',
+    },
+    {
+      termino: 'Cupón',
+      significado:
+        'Tipo de interés que debe pagar el emisor y es expresado como un porcentaje del principal.',
+    },
+    {
+      termino: 'Emisor',
+      significado:
+        'Entidad pública o privada que emite la deuda, es decir, los títulos. Es la entidad que pide la deuda. (ZonaValue.com, 2019)',
+    },
+    {
+      termino: 'Fecha de vencimiento',
+      significado:
+        'Momento en el que el emisor debe devolver el dinero, momento en que termina el préstamo. (ZonaValue.com, 2019)',
+    },
+    {
+      termino: 'Principal o nominal del bono',
+      significado:
+        'Cantidad de dinero que pide prestado el emisor, correspondiente a cada título. (ZonaValue.com, 2019)',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia: 'ING. (2021). ¿Cómo se miden los índices bursátiles?',
+      link:
+        'https://www.ing.es/ennaranja/invertir-dinero/conceptos-utiles/indices-bursatiles-como-se-miden/#',
+    },
+    {
+      referencia: 'ZonaValue.com. (2019). Argentina, invertir en renta fija.',
+      link:
+        'https://stagingclon.zonavalue.com/blog/nivel-principiante/argentina-invertir-en-renta-fija',
     },
   ],
   creditos: [
@@ -131,7 +209,7 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
@@ -146,9 +224,36 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Nombre_rol',
-          centro: 'Nombre_centro_formación',
+          nombre: 'Jair Yovanny Castro Morales',
+          cargo: 'Experto temático',
+          centro: 'Regional Tolima - Centro Agropecuario La Granja',
+        },
+        {
+          nombre: 'Miroslava González Hernández',
+          cargo: 'Diseño y evaluación instruccional',
+          centro:
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Asesoría Metodológica',
+          centro: 'Regional Distrito Capital, Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable Equipo de Desarrollo Curricular',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrección de estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Evaluación instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -156,18 +261,28 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Diseñador web',
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Producción audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Producción audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Animación y producción audiovisual',
+          nombre: 'Oscar Iván Uribe Ortiz',
+          cargo: 'Diseño web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Diego Fernando Velasco Guiza',
+          cargo: 'Desarrollo Fullstack',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Francisco José Vásquez Suárez',
+          cargo: 'Desarrollo Fullstack',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -176,17 +291,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Nombre_responsable',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },

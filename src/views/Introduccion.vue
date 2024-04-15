@@ -8,6 +8,8 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+    p.mb-5 La realidad financiera constituye uno de los pilares fundamentales sobre los que reposa la estabilidad económica de toda empresa, en este sentido, es ineludible el hecho de que para todo ente económico es de vital importancia mantener una buena salud financiera con la cual pueda sustentar en el tiempo el continuo funcionamiento de sus operaciones. En el siguiente video podrá evidenciar la importancia de la implementación de estrategias que garanticen una correcta toma de decisiones para el crecimiento empresarial.
     
     figure.mb-5(data-aos="zoom-in")
       .video
