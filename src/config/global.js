@@ -39,7 +39,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Fuentes y usos del efectivol',
+        titulo: 'Fuentes y usos del efectivo',
         desarrolloContenidos: true,
         subMenu: [
           {

@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9(data-aos="fade-left")
         .titulo-segundo.color-primario
           h2 Conceptos básicos
-        p.mb-4 reconocer conceptos pertenecientes al mercado financiero como apropiación de su terminología para el análisis de escenarios.
+        p.mb-4 Reconocer conceptos pertenecientes al mercado financiero como apropiación de su terminología para el análisis de escenarios.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
@@ -29,7 +29,7 @@
       .col-12.col-md-8.col-lg-9(data-aos="fade-left")
         .titulo-segundo.color-primario
           h2 Comportamiento del mercado
-        p.mb-4 comprender cómo funcionan los distintos elementos vinculados en los mercados financieros.
+        p.mb-4 Comprender cómo funcionan los distintos elementos vinculados en los mercados financieros.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

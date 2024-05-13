@@ -7,8 +7,8 @@
         span 2
       h1 Fuentes y usos del efectivo
 
-    p Se entiende que uno de los objetivos principales de la administración y gestión financiera será la generación estratégica de políticas que contribuyan a la consecución de recursos de bajos costos, que garanticen un tiempo adecuado para su uso o aplicación en actividades que sean rentables a la empresa.
-    p.mb-5 Dichas estrategias proveen herramientas de análisis organizacionales, que permiten diagnosticar la evolución de la relación entre las fuentes que originan la consecución de los recursos, tales como el efectivo, y el uso que se les está dando a los mismos. Este análisis permite evaluar la pertinencia de las decisiones con las que se define la manera de cómo se obtienen los recursos y en qué se gastan. Así mismo, dicho análisis permite considerar otras opciones que podrían hacer más eficientes estos procesos de obtención y gastos y hacer proyecciones a futuro sobre el comportamiento de los mismos, buscando siempre mejorar la situación financiera de las empresas, tal como se presenta en los siguientes casos.
+    p Uno de los objetivos principales de la administración y gestión financiera es la generación estratégica de políticas que contribuyan a la consecución de recursos de bajos costos, que garanticen un tiempo adecuado para su uso o aplicación en actividades que sean rentables a la empresa.
+    p.mb-5 Dichas estrategias proveen herramientas de análisis organizacionales, que permiten diagnosticar la evolución de la relación entre las fuentes que originan la consecución de los recursos, tales como el efectivo, y el uso que se les está dando a los mismos. Este análisis permite evaluar la pertinencia de las decisiones con las que se define la manera de cómo se obtienen los recursos y en qué se gastan. Así mismo, dicho análisis permite considerar otras opciones que mejoren estos procesos de obtención y gastos y hacer proyecciones a futuro sobre su comportamiento, buscando mejorar la situación financiera de las empresas, como se presenta en los siguientes casos. 
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-down")
       .col-12
@@ -16,7 +16,7 @@
           img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/img-1-v1.svg', alt='')  
           img.d-block.d-md-none(src='@/assets/curso/temas/tema2/img-1-v2.svg', alt='') 
 
-    p.mb-5(data-aos="fade-right") Conociendo esta información, dadas las estrategias financieras planteadas, la empresa una vez identifique las fuentes que generan los recursos, la cantidad y la tendencia de la generación de los mismos si es alta o baja, así como reconocer el uso que se le está dando a los recursos para evaluar si son óptimos o, por el contrario, se debe reestructurar la política de usos de los mismos, dado que se pueden estar presentando una salida improductiva.
+    p.mb-5(data-aos="fade-right") Conociendo esta información, dadas las estrategias financieras planteadas, la empresa una vez identifique las fuentes que generan los recursos, la cantidad y la tendencia de la generación de estos si es alta o baja, así como reconocer el uso que se le está dando a los recursos para evaluar si son óptimos o, por el contrario, se debe reestructurar la política de usos de estos, dado que se pueden estar presentando una salida improductiva.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
@@ -28,9 +28,9 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1. Inversión 
 
-    p(data-aos="fade-right") A medida que las empresas desarrollan sus actividades económicas, y siempre que este desarrollo le permita robustecer sus recursos, incluso la misma evolución de la economía y la aparición de nuevas formas de mercado y tendencias de negocios, todas estas y muchas otras circunstancias tanto económicas como sociales, obligan a que ineludiblemente todas las empresas busquen de alguna manera evolucionar e incluso innovar en sus estrategias de crecer e incursionar en nuevos mercados.
-    p(data-aos="fade-right") Para el efecto, surge la necesidad de establecer estrategias que integren los recursos obtenidos durante el desarrollo de sus actividades económicas con el objetivo de obtener herramientas que les permitan incursionar en nuevos mercados para obtener otras alternativas en la consecución de nuevos beneficios económicos.
-    p.mb-5(data-aos="fade-right") Una de las estrategias más conocidas, en este sentido, son las <strong>inversiones</strong>, las cuales, en términos simples consisten en hacer uso de los recursos con los que cuenta la empresa, llámense activos, tiempo, trabajo o capital, con el objetivo de a futuro obtener un beneficio. 
+    p(data-aos="fade-right") A medida que las empresas desarrollan sus actividades económicas, y si este desarrollo les permite robustecer sus recursos, la evolución de la economía y la aparición de nuevas formas de mercado y tendencias empresariales, entre otras circunstancias tanto económicas como sociales, obligan a que todas las empresas busquen evolucionar e incluso innovar en sus estrategias de crecimiento e incursionar en nuevos mercados.
+    p(data-aos="fade-right") Para el efecto, surge la necesidad de establecer estrategias que integren los recursos obtenidos durante el desarrollo de sus actividades económicas para obtener herramientas que les permitan incursionar en nuevos mercados y obtener otras alternativas para obtener nuevos beneficios económicos. 
+    p.mb-5(data-aos="fade-right") Una de las estrategias más conocidas, en este sentido, son las #[strong inversiones], que consisten en usar los recursos con los que cuenta la empresa, llámense activos, tiempo, trabajo o capital, para obtener un beneficio a futuro. 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-down")
       .bloque-texto-g__img(
@@ -39,9 +39,13 @@
       .bloque-texto-g__texto.p-4
         p.mb-0  En este sentido, la empresa decide renunciar a los beneficios que venía obteniendo o que podría obtener por la tenencia de sus recursos (coste de oportunidad) cuando decide hacer uso de estos recursos e incluirlos en otros proyectos económicos que podrían o no, generarle a futuro mejores beneficios que los que venía percibiendo, pues es intrínseca a esta decisión la incertidumbre del éxito, por tanto, cuando se realiza una inversión se está asumiendo un riesgo. 
 
+    //- .row.justify-content-center.align-items-center.mb-4
+    //-   .col-10(data-aos="zoom-in-down")
+    //-     p Dado que este sector económico es tan variado, los criterios para clasificar los tipos de inversión podrían hacerse desde distintos puntos de vista.  No existe una clasificación estándar que defina los tipos de inversión, ni mucho menos una que sea mejor que otra, por tanto, para poder hacer una clasificación acorde a la realidad económica de cada inversión, es necesario considerar las circunstancias y los actores que intervienen en cada hecho económico.
+
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
-        p Dado que este sector económico es tan variado, los criterios para clasificar los tipos de inversión podrían hacerse desde distintos puntos de vista.  No existe una clasificación estándar que defina los tipos de inversión, ni mucho menos una que sea mejor que otra, por tanto, para poder hacer una clasificación acorde a la realidad económica de cada inversión, es necesario considerar las circunstancias y los actores que intervienen en cada hecho económico.
+        p Para poder hacer una clasificación acorde a la realidad económica de cada inversión, no existe una clasificación estándar que defina los tipos de inversión, hay que considerar las circunstancias y los actores que intervienen en cada hecho económico.
 
     .row.justify-content-center.mt-5
       .col-lg-12.col-12(data-aos="zoom-in-down") 
@@ -139,14 +143,14 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-5.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Entender y considerar estos factores a la hora de tomar decisiones de inversión, aunque parezca obvio no es tan común como debería, pues la mayoría de los inversores suelen centrarse más que nada en los rendimientos, sin considerar por lo menos el riesgo o tiempo, pensar solo en cuánto me voy a ganar no es una buena idea. De ahí que se hayan expuesto quizá no todas, pero sí las aristas más relevantes que componen el mercado de inversiones. El estudio minucioso de las mismas otorgará al analista financiero elementos para tomar quizá no la mejor decisión, pero sí la más acertada en coherencia con su situación económica y la de su empresa. 
+        p.mb-0 Entender y considerar estos factores para tomar decisiones de inversión, aunque parezca obvio no es tan común como debería, pues la mayoría de los inversores suelen centrarse en los rendimientos, sin considerar el riesgo o el tiempo, pensar solo en cuánto se ganará, no es una buena idea. De ahí que se hayan expuesto quizá no todas, pero sí las aristas más relevantes que componen el mercado de inversiones. El estudio minucioso de las mismas otorgará al analista financiero elementos para tomar quizá no la mejor decisión, pero sí la más acertada en coherencia con su situación económica y la de su empresa. 
 
     Separador 
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2. Financiación  
 
-    p.mb-5(data-aos="fade-right") Con el objetivo de asegurar su supervivencia y del mismo modo garantizar la continuidad de sus operaciones, las empresas están en la búsqueda constante de obtener fuentes de recursos que le garanticen permanencia. Dada esta necesidad, las fuentes de financiación son la primera alternativa a considerar para lograr este objetivo. Entre estas se pueden considerar las siguientes.
+    p.mb-5(data-aos="fade-right") Para asegurar su supervivencia y garantizar la continuidad de sus operaciones, las empresas buscan obtener fuentes de recursos que le garanticen permanencia. Dada esta necesidad, las fuentes de financiación son la primera alternativa a considerar para lograr este objetivo. Entre estas se pueden considerar las siguientes.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10(data-aos="zoom-in-down")
@@ -158,7 +162,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
-        p Por ser un sector tan variado, es un poco complejo definir las características comunes de todas las fuentes de financiación, pero en términos generales se puede hablar de fuentes de inversión siempre que estas cumplan con los siguientes aspectos mínimos.   
+        p Por ser un sector tan variado, es complejo definir las características comunes de todas las fuentes de financiación, pero en general se puede hablar de fuentes de inversión si estas cumplen con los siguientes aspectos mínimos.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-12(data-aos="zoom-in-down")

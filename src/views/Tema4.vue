@@ -29,7 +29,7 @@
             .p-5
               p.mb-0(style="color: #FFFF !important") En síntesis, un índice bursátil es un valor numérico que se calcula tomando como base los precios del mercado de cada uno de los valores que lo componen, la rentabilidad del índice corresponde a la variación en el valor del mismo de un periodo a otro.
 
-    p Con estos indicadores, de manera general, se logra representar la evolución de las empresas de un país, un determinado sector de la economía, o un tipo de activo financiero, así, los índices que aglutinan las principales empresas de un país representan un excelente indicador de la economía del mismo. 
+    p Con estos indicadores, se logra representar la evolución de las empresas de un país, un determinado sector de la economía, o un tipo de activo financiero, de manera que los índices que aglutinan las principales empresas de un país representan un excelente indicador de su economía.
     p.mb-5 Los índices bursátiles se pueden utilizar para muchos fines, entre los principales se encuentran:
 
     .row.justify-content-center.align-items-center.mb-5

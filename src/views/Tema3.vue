@@ -7,8 +7,8 @@
         span 3
       h1 Mercados financieros
 
-    p Los mercados financieros lo constituyen aquellos espacios que pueden ser físicos o virtuales, cuyo objetivo es el de direccionar el ahorro de personas, familias o empresas a los diferentes instrumentos de inversión, que ofrecen quienes buscan fuentes de financiación para sus proyectos. Se busca conseguir que quiénes ofrecen sus recursos puedan obtener una buena remuneración por prestar su dinero y quiénes receptan estos recursos puedan disponer de este dinero para realizar sus inversiones. 
-    p.mb-5 Como todo mercado, este está regido por la ley de oferta y demanda, en donde si alguien quiere conseguir a un precio determinado, solo lo podrá adquirir al precio definido si existe otra persona dispuesta a venderle ese algo a dicho precio; en este sentido, los mercados financieros colocan a todos los vendedores en el mismo lugar, haciendo así más fácil encontrar a los posibles compradores.
+    p Los mercados financieros son espacios físicos o virtuales, cuyo objetivo es dirigir el ahorro de personas, familias o empresas a los instrumentos de inversión, que ofrecen quienes buscan financiación para sus proyectos. Se busca conseguir que quienes ofrecen sus recursos puedan obtener una buena remuneración por prestar su dinero y quienes receptan estos recursos puedan disponer de este dinero para realizar sus inversiones.
+    p.mb-5 Como todo mercado, este está regido por la ley de oferta y demanda, donde si alguien quiere conseguir a un precio determinado, solo lo podrá adquirir si hay otra persona dispuesta a venderle ese algo a dicho precio; en este sentido, los mercados financieros ponen a todos los vendedores en el mismo lugar, facilitando encontrar a los compradores.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-down")
       .bloque-texto-g__img(
@@ -20,11 +20,11 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
         .cajon.color-primario.p-4(style="background-color:#E1EFE3")
-          p Estos espacios representan uno de los elementos más importantes dentro del sistema económico de un país, en el sentido que, reúne condiciones de entrelazamiento entre oferentes y demandantes del sistema financiero, que contribuyen al desarrollo de las formas en que estos entes se relacionan, al tiempo que preparan el escenario para dinamizar la economía en el sentido que ayudan en la formación y estandarización de precios, garantizan la liquidez que necesita el sistema debido al volumen de negocios, y  ayudan a los agentes económicos a obtener los recursos financieros que necesitan para financiar su actividad.
+          p Estos espacios son uno de los elementos más importantes en el sistema económico de un país, pues reúnen condiciones de entrelazamiento entre oferentes y demandantes del sistema financiero, que contribuyen al desarrollo de las formas de relación de estos entes, mientras preparan el escenario para dinamizar la economía, ya que ayudan a la formación y estandarización de precios, garantizan la liquidez que necesita el sistema debido al volumen de negocios, y ayudan a los agentes económicos a obtener los recursos financieros necesarios para financiar su actividad.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
-        p Todo esto, en consecuencia, de las cualidades y beneficios que ofrece cada escenario, dependiendo del tipo de negocio en el que se enfoca, puesto que, dada la amplia gama y condiciones de los productos que en estos se ofrecen, los intervinientes pueden encontrar una gran variedad de instrumentos y opciones financieras, ajustados a los requerimientos tanto de inversores como de oferentes, así pues, entre los principales modelos de estos mercados se encuentran: monetario, de capitales y derivados. 
+        p Todo esto, según las cualidades y beneficios de cada escenario, dependiendo del tipo de negocio en el que se enfoca, ya que, dada la amplia gama y condiciones de los productos ofrecidos, los intervinientes pueden encontrar muchos instrumentos y opciones financieras, ajustados a los requerimientos de inversores y de oferentes, y entre los principales modelos de estos mercados están: monetario, de capitales y derivados.
 
     Separador 
 
@@ -99,9 +99,9 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.3. Mercado de derivados 
 
-    p Se refiere al mercado financiero en el que ofertan instrumentos o contratos financieros cuyo valor está basado (o se deriva) en la evolución de los precios de uno o más activos, denominados activos subyacentes, los cuales pueden ser físicos, como materias primas, o intangibles como la tasa de cambio, acciones o tasas de interés. 
+    p Es el mercado financiero en el que ofertan instrumentos o contratos financieros cuyo valor se basa en la evolución de los precios de uno o más activos, denominados activos subyacentes, que pueden ser físicos, como materias primas, o intangibles como la tasa de cambio, acciones o tasas de interés.
     p Los instrumentos financieros derivados permiten asegurar un precio futuro de la compra o venta para un activo subyacente y así prevenir las posibles variaciones al alza o a la baja del precio que se genere sobre este activo.
-    p.mb-5 Este mercado ofrece diferentes herramientas que permiten administrar y controlar riesgos y generar certidumbre y control de los mismos, que condicionan los precios de los activos financieros ofertados en los mercados, logrando de este modo una planeación financiera confiable, eliminando o minimizando la fluctuación de precios en dichos mercados.
+    p.mb-5 Este mercado ofrece herramientas para administrar y controlar riesgos y generar certidumbre y control de estos, que condicionan los precios de los activos financieros ofertados en los mercados, logrando así una planeación financiera confiable, eliminando o minimizando la fluctuación de precios en dichos mercados.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-down")
       .bloque-texto-g__img(
@@ -140,7 +140,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
-        p Abreviando lo dicho, conocer y entender a fondo no solo las características de cada uno de los elementos presentes en los distintos tipos de mercados financieros, sus bondades o condiciones, debe ser una de las principales cualidades de quienes ejerzan actividades de asesoría financiera, puesto que, este conocimiento les garantizará la ejecución de asesorías efectivas, aplicadas a cada campo de manera eficiente y oportuna con las que podrán garantizar resultados de éxito a sus asesorados.
+        p En conclusión, conocer y entender a fondo no solo las características de cada uno de los elementos presentes en los distintos tipos de mercados financieros, sus bondades o condiciones, debe ser una de las principales cualidades de quienes ejerzan actividades de asesoría financiera, puesto que, este conocimiento les garantizará la ejecución de asesorías efectivas, aplicadas a cada campo de manera eficiente y oportuna con las que se pueden garantizar asesorías exitosas.
 
 </template>
 
