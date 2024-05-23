@@ -12,19 +12,21 @@
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-down")
       .col-12
+        .titulo-sexto.color-acento-contenido.mb-5
+          p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Expectativas financieras</em>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/img-1-v1.svg', alt='')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/img-1-v2.svg', alt='') 
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/img-1-v1.svg', alt='Infografía que relaciona los aspectos financieros presentes en una empresa.')  
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/img-1-v2.svg', alt='Infografía que relaciona los aspectos financieros presentes en una empresa.') 
 
     p.mb-5(data-aos="fade-right") Si bien es cierto que la generación de activos y pasivos financieros tiene su origen en un hecho económico común, por su naturaleza económica están definidos por características específicas para cada uno así:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12(data-aos="zoom-in-down")
         .titulo-sexto.color-acento-contenido.mb-5
-          p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Características</em>
+          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Características</em>
         figure
-          img.mb-2.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/img-2-v1.svg', alt='')
-          img.mb-2.d-block.d-md-none(src='@/assets/curso/temas/tema1/img-2-v2.svg', alt='')
+          img.mb-2.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/img-2-v1.svg', alt='Imagen que relaciona las características presentes en los activos y pasivos financieros.')
+          img.mb-2.d-block.d-md-none(src='@/assets/curso/temas/tema1/img-2-v2.svg', alt='Imagen que relaciona las características presentes en los activos y pasivos financieros.')
 
     p.mb-5(data-aos="fade-right") De acuerdo con las condiciones económicas que generan la creación tanto de activos como pasivos financieros, por su naturaleza, origen o condición en el ámbito financiero, pueden reconocerse los siguientes tipos, iniciando con los activos. 
 
@@ -35,41 +37,41 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-3.svg', alt='')
 
-          .tarjeta.color-acento-contenido1.p-3(x="5%" y="16.5%" numero="1")
+          .tarjeta.color-acento-contenido1.p-3(x="5%" y="16.5%" numero="1" tooltip="Abrir recurso")
             p Son todos los activos financieros para los que el emisor se obligó a cumplir en una cantidad y en un periodo de tiempo previamente establecidos. En este sentido, el emisor garantiza la devolución del capital invertido y los intereses o rentabilidad en el momento de la compraventa del instrumento económico, lo que permite al inversor conocer la rentabilidad de su inversión desde el inicio.
             p En el caso de los activos de renta fija, aunque la obligación y sus condiciones estén garantizadas por el emisor, esto no asegura que sea una inversión sin riesgo, pues siempre en el mercado financiero existe la posibilidad de que este no pueda cumplir con lo pactado, aun así, en términos generales, dado que para este tipo de inversión, se establecen claramente sus condiciones y origen de los recursos desde el inicio, lo convierte en una inversión de bajo riesgo y en consecuencia de baja rentabilidad.
             p Dadas las condiciones de su emisión, dichos activos son usados para la venta en mercados financieros, lo que conlleva a que su precio varíe, aún con esto, aunque el precio de venta del activo de renta fija cambie, producto de su negociación, los intereses que generará este en el tiempo no cambian.
             p Acorde a su origen se pueden distinguir 2 tipos de activos financieros de renta fija los cuales son: deuda pública y deuda privada. 
 
-          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="10.5%" numero="2")
+          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="10.5%" numero="2" tooltip="Abrir recurso")
             p Corresponde a los instrumentos financieros ofrecidos por empresas o entes económicos de naturaleza privada.
 
-          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="22.5%" numero="3")
+          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="22.5%" numero="3" tooltip="Abrir recurso")
             p Corresponde a la oferta financiera ofrecida por una entidad pública, como las empresas estatales, las naciones, etc.
               
-          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="5%" y="50%" numero="4")
+          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="5%" y="50%" numero="4" tooltip="Abrir recurso")
             p Está conformada por todos aquellos activos financieros para los que la rentabilidad a ganar es incierta, puesto que ni la rentabilidad ni la devolución de la inversión inicial está garantizada. Esto se debe a que, dado el origen de los recursos del emisor, y las condiciones económicas del negocio tales como la evolución de la empresa, la situación económica o el comportamiento de los mercados financieros, no permite predecir a ciencia cierta el flujo de caja que se podría recibir por parte del emisor de la obligación, por esto se dice que dichos activos ofrecen una rentabilidad variable.
             p Debido a que, por su naturaleza, no es posible determinar la rentabilidad, puesto que esto depende de muchos factores económicos. El riesgo de invertir en este tipo de activos financieros es mayor, aunque se espera una mayor rentabilidad que la generada en renta fija o en productos de ahorro, sobre todo en el largo plazo. Esto dependerá de la volatilidad de las condiciones en que se desarrolla dicho mercado.
             p Un claro ejemplo de este tipo de negocio financiero son las acciones, en las que las rentabilidades o dividendos pagados a los poseedores de los activos financieros o accionistas, dependerá de la prosperidad del negocio desarrollado por la empresa o emisor del título, lo que implica que el valor de las rentabilidades variará con el tiempo y la situación económica.
             p Los dividendos anuales que entregan las empresas, en consideración a las condiciones mencionadas, suelen ser mayores que las rentabilidades entregadas por los activos financieros de renta fija, pues bajo buenas condiciones económicas el valor de la acción sube, lo que conlleva a que la rentabilidad por la compra aumente, pero si el valor de la acción baja, esto podría resultar en la pérdida de los dividendos esperados e incluso en una disminución del valor de la inversión inicial.
             p Otros tipos de activos financieros de renta variable que se encuentran en el mercado, de acuerdo con su origen, condiciones y uso en el mercado financiero son: fondos de inversión, bonos convertibles y mercado de divisas.
           
-          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="37.5%" numero="5")
+          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="37.5%" numero="5" tooltip="Abrir recurso")
             p Son productos financieros en el que los administradores acumulan el dinero de muchos inversores para después invertirlo en otros instrumentos financieros. Bajo estas condiciones, el valor del fondo de inversión y, por tanto, de las rentabilidades que pueda otorgar dependen de los activos que se contienen dentro del fondo, y de las rentabilidades que a su vez estas inversiones generen.
           
-          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="49.5%" numero="6")
+          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="49.5%" numero="6" tooltip="Abrir recurso")
             p Son activos financieros que permiten a su poseedor convertirlo en un tiempo determinado en acciones, y con ello pasar a ser accionista de la empresa generadora del instrumento financiero, en el que tiene diferentes derechos y obligaciones, permitiéndole además recibir dividendos producto de las rentabilidades obtenidas por la misma, las cuales pueden variar acorde a las condiciones económicas y financieras de la empresa.
           
-          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="61.5%" numero="7")
+          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="61.5%" numero="7" tooltip="Abrir recurso")
             p Es el mercado que se caracteriza por la libre negociación y cambio de divisas. Su objetivo es el de facilitar el comercio e inversión entre empresas a nivel global. En dicho mercado que puede ser físico como virtual, se fija el precio de cada moneda, llamado tasa de cambio, y se acuerdan precios de compra o venta, valores que dependen exclusivamente de la oferta o demanda de los participantes.
           
-          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="5%" y="83%" numero="8")
+          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="5%" y="83%" numero="8" tooltip="Abrir recurso")
             p De acuerdo con el tiempo en que puede ser exigida la obligación del pago de rentabilidades establecidas en las condiciones contractuales, los activos financieros según este tiempo se clasifican en: corto, mediano y largo plazo.
           
-          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="77%" numero="9")
+          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="77%" numero="9" tooltip="Abrir recurso")
             p Corresponde a los activos financieros para los que, de acuerdo a las condiciones contractuales, se estableció que el pago de las rentabilidades debía amortizarse en un plazo o periodo de tiempo corto, que generalmente es inferior a un año, y, por tanto, dado el corto periodo de tiempo que dura la inversión, suele brindar rentabilidades bajas.
           
-          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="89%" numero="10")
+          .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="89%" numero="10" tooltip="Abrir recurso")
             p Este tipo de activos agrupa a todos aquellos cuya exigibilidad de pago se establece en un pedido de tiempo superior a un año; dado esta condición, dichos activos representan un mayor riesgo de inversión dado la posibilidad de fluctuación del valor en el mercado y la variabilidad de cambios durante el tiempo de vigencia de la obligación.
 
     .row.justify-content-center.align-items-center.mb-3.d-block.d-md-none
@@ -120,7 +122,7 @@
         figure 
           img.d-block.d-md-none(src='@/assets/curso/temas/tema1/img-4-v2.svg', alt='')
 
-    p.mb-5 En consecuencia, es indudable reconocer el escenario financiero al que se enfrentan los asesores en esta materia, por eso es necesario enfatizar la importancia del estudio de cada opción financiera y su adaptabilidad respecto de las condiciones y necesidades de las propuestas. 
+    p.mb-5 En consecuencia, es indudable reconocer el escenario financiero al que se enfrentan los asesores en esta materia, por eso es necesario enfatizar la importancia del estudio de cada opción financiera y su adaptabilidad respecto de las condiciones y necesidades de las propuestas.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.col-12(data-aos="zoom-in-down")

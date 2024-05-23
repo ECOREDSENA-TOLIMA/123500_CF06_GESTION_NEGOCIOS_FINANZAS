@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Mercados financieros y destinación del efectivo',
     descripcionCurso:
-      'La aplicación de estrategias financieras pertinentes y bien estructuradas, que garanticen la consecución de fuentes de ingresos, representan herramientas fundamentales para el funcionamiento de las empresas puesto que estas sustentarán la marcha continua de sus operaciones, además de permitir a las organizaciones crear políticas de gasto e inversión que hagan más eficiente el uso del efectivo.',
+      'Las estrategias financieras pertinentes y bien estructuradas, que garanticen la consecución de fuentes de ingresos, representan herramientas fundamentales para el funcionamiento de las empresas puesto que estas sustentarán la marcha continua de sus operaciones, además de permitir a las organizaciones crear políticas de gasto e inversión que hagan más eficiente el uso del efectivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [

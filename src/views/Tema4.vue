@@ -14,7 +14,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Estos indicadores son usados en las bolsas de valores como referencia para medir la evolución del mercado, de un segmento del mercado, la industria u otro sector de la economía. Los índices bursátiles también son empleados en  benchmarking para medir el desempeño de las carteras de activos que son administradas por los gestores de mercado.
+        p.mb-0 Estos indicadores son usados en las bolsas de valores como referencia para medir la evolución del mercado, de un segmento del mercado, la industria u otro sector de la economía. Los índices bursátiles también son empleados en #[em benchmarking] para medir el desempeño de las carteras de activos que son administradas por los gestores de mercado.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
@@ -23,7 +23,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-md-11.col-12(data-aos="fade-down")
         .tarjeta-avatar-b.mb-4
-          .tarjeta-avatar-b__img.px-4
+          .tarjeta-avatar-b__img.px-md-4.px-0
             img(src='@/assets/curso/temas/tema4/img-2.svg' alt='')
           .tarjeta.tarjeta--custom
             .p-5
@@ -35,10 +35,10 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10(data-aos="zoom-in-down")
         .titulo-sexto.color-acento-contenido.mb-5
-          p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Funciones de los índices bursátiles.</em>
+          p.titulo.pb-0.mb-0 #[b Figura 8.] <em>Funciones de los índices bursátiles.</em>
         figure
-          img.mb-2.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema4/img-3-v1.svg', alt='')
-          img.mb-2.d-block.d-md-none(src='@/assets/curso/temas/tema4/img-3-v2.svg', alt='')
+          img.mb-2.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema4/img-3-v1.svg', alt='Imagen que menciona siete funciones de los índices bursátiles.')
+          img.mb-2.d-block.d-md-none(src='@/assets/curso/temas/tema4/img-3-v2.svg', alt='Imagen que menciona siete funciones de los índices bursátiles.')
 
     Separador 
 
@@ -47,13 +47,16 @@
 
     p.mb-5 Debido a su naturaleza, y condiciones en que se generan, establecer criterios para clasificar los tipos de indicadores bursátiles sería muy extenuante, pero son generalmente aceptados en todos los ámbitos los siguientes tres criterios.
 
-    .row.align-items-center.mb-3(data-aos="zoom-down-right")
-      .col-auto.pe-0(style="z-index:2")
-        figure
-          img(src='@/assets/curso/temas/ico-title.svg', style="width: 15px" ,alt='').m-auto
-      .col-auto.bg-c8(style="z-index:1")
-        .p-2
-          h3.mb-0.ms-3 Por procedencia geográfica 
+    //- .row.align-items-center.mb-3(data-aos="zoom-down-right")
+    //-   .col-auto.pe-0(style="z-index:2")
+    //-     figure
+    //-       img(src='@/assets/curso/temas/ico-title.svg', style="width: 15px" ,alt='').m-auto
+    //-   .col-auto.bg-c8(style="z-index:1")
+    //-     .p-2
+    //-       h3.mb-0.ms-3 Por procedencia geográfica 
+    ul.lista-ul.mb-3
+      li
+        h3.bg-title ● Por procedencia geográfica 
     
     p.mb-4 Bajo este criterio, los indicadores bursátiles se categorizan de acuerdo con el área geográfica de influencia. 
 
@@ -75,13 +78,17 @@
             .col-md-12.mb-4.mb-md-0
               p Son indicadores que agrupan empresas de todo el mundo, como el MSCI WORLD, compuesto por más de 1.600 compañías de 23 países en desarrollo.
     
-    .row.align-items-center.mb-3(data-aos="zoom-down-right")
-      .col-auto.pe-0(style="z-index:2")
-        figure
-          img(src='@/assets/curso/temas/ico-title.svg', style="width: 15px" ,alt='').m-auto
-      .col-auto.bg-c8(style="z-index:1")
-        .p-2
-          h3.mb-0.ms-3 Por el tipo de empresa que contienen
+    //- .row.align-items-center.mb-3(data-aos="zoom-down-right")
+    //-   .col-auto.pe-0(style="z-index:2")
+    //-     figure
+    //-       img(src='@/assets/curso/temas/ico-title.svg', style="width: 15px" ,alt='').m-auto
+    //-   .col-auto.bg-c8(style="z-index:1")
+    //-     .p-2
+    //-       h3.mb-0.ms-3 Por el tipo de empresa que contienen
+          
+    ul.lista-ul.mb-3
+      li
+        h3.bg-title ● Por el tipo de empresa que contienen
 
     p.mb-4 En este sector se clasifican los indicadores bursátiles de acuerdo con el sector económico al que pertenecen las empresas que agrupan.
 
@@ -99,13 +106,16 @@
             .col-md-12.mb-4.mb-md-0
               p Combina empresas de sectores diversos de la economía que en ocasiones están interrelacionados como tecnología y salud, por ejemplo. 
 
-    .row.align-items-center.mb-3(data-aos="zoom-down-right")
-      .col-auto.pe-0(style="z-index:2")
-        figure
-          img(src='@/assets/curso/temas/ico-title.svg', style="width: 15px" ,alt='').m-auto
-      .col-auto.bg-c8(style="z-index:1")
-        .p-2
-          h3.mb-0.ms-3 Por el tipo de activos que contienen 
+    //- .row.align-items-center.mb-3(data-aos="zoom-down-right")
+    //-   .col-auto.pe-0(style="z-index:2")
+    //-     figure
+    //-       img(src='@/assets/curso/temas/ico-title.svg', style="width: 15px" ,alt='').m-auto
+    //-   .col-auto.bg-c8(style="z-index:1")
+    //-     .p-2
+    //-       h3.mb-0.ms-3 Por el tipo de activos que contienen 
+    ul.lista-ul.mb-3
+      li
+        h3.bg-title ● Por el tipo de activos que contienen
 
     p.mb-4 Cataloga los indicadores según el tipo de activo cotizado.
 
@@ -148,30 +158,55 @@
       .col-10(data-aos="zoom-in-down")
         p En este sentido son principalmente aceptados dos métodos para calcular un índice, teniendo o no en cuenta la capitalización bursátil de cada empresa y ajustando el valor del índice al peso concreto o concediéndose a todos el mismo valor, dichos métodos son:
     
-    .row.justify-content-center.align-items-center.mb-4
-      .col-10(data-aos="zoom-in-down")
-        LineaTiempoD.color-acento-botones.mb-5
-          .row(numero="1" titulo="Índices no ponderados <em>(Price-Weighted Index PWI)</em>")
-            .col-md-12.mb-4.mb-md-0
-              p En este caso, se consideran los precios de las acciones que componen el índice y se obtiene como una media aritmética del precio de estas. En este cálculo se suma el precio de los títulos y se divide el resultado en el número total de las empresas que lo conforman.
-              p Bajo esta modalidad de cálculo, la acción que poseen un mayor valor influye más en la evolución del índice, sin importar el tamaño real de la empresa o la importancia de esta en la economía del país.
-              p Los índices no ponderados representan una minoría frente a los índices ponderado; sin embargo, el Dow Jones Industrial Average, que es uno de los principales índices bursátiles del mundo y el más antiguo, funciona de esta forma. (ING, 2021).
+    //- .row.justify-content-center.align-items-center.mb-4
+    //-   .col-10(data-aos="zoom-in-down")
+    //-     LineaTiempoD.color-acento-botones.mb-5
+    //-       .row(numero="1" titulo="Índices no ponderados <em>(Price-Weighted Index PWI)</em>")
+    //-         .col-md-12.mb-4.mb-md-0
+    //-           p En este caso, se consideran los precios de las acciones que componen el índice y se obtiene como una media aritmética del precio de estas. En este cálculo se suma el precio de los títulos y se divide el resultado en el número total de las empresas que lo conforman.
+    //-           p Bajo esta modalidad de cálculo, la acción que poseen un mayor valor influye más en la evolución del índice, sin importar el tamaño real de la empresa o la importancia de esta en la economía del país.
+    //-           p Los índices no ponderados representan una minoría frente a los índices ponderado; sin embargo, el Dow Jones Industrial Average, que es uno de los principales índices bursátiles del mundo y el más antiguo, funciona de esta forma. (ING, 2021).
 
-            .col-md-12
-              figure
-                img(src='@/assets/curso/temas/tema4/img-7.png', alt='Texto que describa la imagen')
+    //-         .col-md-12
+    //-           figure
+    //-             img(src='@/assets/curso/temas/tema4/img-7.png', alt='')
 
-          .row(numero="2" titulo="Índices ponderados según la capitalización Bursátil <em>(Market Value-Weighted Index Mvwi)</em>")
-            .col-md-12.mb-4.mb-md-0
-              p También conocido como índice ponderado por valor de mercado. Este método es el más usado ya que compone los más representativos del mercado. Para los índices en este método se toma en cuenta el número de acciones en circulación de la compañía por el precio de la acción en un momento dado; esto es lo que se llama capitalización bursátil.
-              p De esta manera, la capitalización de mercado refleja el valor de mercado total de las acciones en circulación de una empresa, así mismo, utiliza la capitalización de mercado de una empresa para determinar cuánto impacto puede tener este valor en particular en los resultados generales del índice, puesto que la capitalización del mercado se deriva del valor de las acciones en circulación.
-              p Para encontrar el valor de un índice ponderado por capitalización, primero se multiplica el precio de mercado de cada componente por el total de acciones en circulación para llegar al valor de mercado total, la porción del valor de la acción con el valor de mercado total general de los componentes del índice proporción a la ponderación de la empresa en el índice.
-              p Para el caso colombiano, el COLCAP es el índice de referencia de la Bolsa de Valores De Colombia BVC. Este indicador refleja las variaciones de los precios de las 20 acciones de la BVC, en donde el valor de la capitalización bursátil ajustada de cada compañía determina su nivel de ponderación.
-              p El valor inicial del índice es equivalente a mil puntos 1.000 y su primer cálculo se realizó el 15 de enero de 2008.
+    //-       .row(numero="2" titulo="Índices ponderados según la capitalización Bursátil <em>(Market Value-Weighted Index Mvwi)</em>")
+    //-         .col-md-12.mb-4.mb-md-0
+    //-           p También conocido como índice ponderado por valor de mercado. Este método es el más usado ya que compone los más representativos del mercado. Para los índices en este método se toma en cuenta el número de acciones en circulación de la compañía por el precio de la acción en un momento dado; esto es lo que se llama capitalización bursátil.
+    //-           p De esta manera, la capitalización de mercado refleja el valor de mercado total de las acciones en circulación de una empresa, así mismo, utiliza la capitalización de mercado de una empresa para determinar cuánto impacto puede tener este valor en particular en los resultados generales del índice, puesto que la capitalización del mercado se deriva del valor de las acciones en circulación.
+    //-           p Para encontrar el valor de un índice ponderado por capitalización, primero se multiplica el precio de mercado de cada componente por el total de acciones en circulación para llegar al valor de mercado total, la porción del valor de la acción con el valor de mercado total general de los componentes del índice proporción a la ponderación de la empresa en el índice.
+    //-           p Para el caso colombiano, el COLCAP es el índice de referencia de la Bolsa de Valores De Colombia BVC. Este indicador refleja las variaciones de los precios de las 20 acciones de la BVC, en donde el valor de la capitalización bursátil ajustada de cada compañía determina su nivel de ponderación.
+    //-           p El valor inicial del índice es equivalente a mil puntos 1.000 y su primer cálculo se realizó el 15 de enero de 2008.
             
-            .col-md-12
-              figure
-                img(src='@/assets/curso/temas/tema4/img-8.png', alt='Texto que describa la imagen')
+    //-         .col-md-12
+    //-           figure
+    //-             img(src='@/assets/curso/temas/tema4/img-8.png', alt='')
+
+                
+    .row.justify-content-center.mb-4.BG100.py-3.px-2
+      .col-md-6.mb-4.mb-md-0
+        .row 
+          .col-md-12
+            figure
+              img(src='@/assets/curso/temas/tema4/img-8.png', alt='')
+          .col-md-12.mb-4.mb-md-0
+            h4.my-3 Índices ponderados según la capitalización Bursátil <em>(Market Value-Weighted Index Mvwi)</em>
+            p También conocido como índice ponderado por valor de mercado. Este método es el más usado ya que compone los más representativos del mercado. Para los índices en este método se toma en cuenta el número de acciones en circulación de la compañía por el precio de la acción en un momento dado; esto es lo que se llama capitalización bursátil.
+            p De esta manera, la capitalización de mercado refleja el valor de mercado total de las acciones en circulación de una empresa, así mismo, utiliza la capitalización de mercado de una empresa para determinar cuánto impacto puede tener este valor en particular en los resultados generales del índice, puesto que la capitalización del mercado se deriva del valor de las acciones en circulación.
+            p Para encontrar el valor de un índice ponderado por capitalización, primero se multiplica el precio de mercado de cada componente por el total de acciones en circulación para llegar al valor de mercado total, la porción del valor de la acción con el valor de mercado total general de los componentes del índice proporción a la ponderación de la empresa en el índice.
+            p Para el caso colombiano, el COLCAP es el índice de referencia de la Bolsa de Valores De Colombia BVC. Este indicador refleja las variaciones de los precios de las 20 acciones de la BVC, en donde el valor de la capitalización bursátil ajustada de cada compañía determina su nivel de ponderación.
+            p El valor inicial del índice es equivalente a mil puntos 1.000 y su primer cálculo se realizó el 15 de enero de 2008.
+      .col-md-6.mb-4.mb-md-0
+        .row 
+          .col-md-12.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/temas/tema4/img-7.png', alt='')
+          .col-md-12
+            h4.my-3 Índices no ponderados <em>(Price-Weighted Index PWI)</em>
+            p En este caso, se consideran los precios de las acciones que componen el índice y se obtiene como una media aritmética del precio de estas. En este cálculo se suma el precio de los títulos y se divide el resultado en el número total de las empresas que lo conforman.
+            p Bajo esta modalidad de cálculo, la acción que poseen un mayor valor influye más en la evolución del índice, sin importar el tamaño real de la empresa o la importancia de esta en la economía del país.
+            p Los índices no ponderados representan una minoría frente a los índices ponderado; sin embargo, el Dow Jones Industrial Average, que es uno de los principales índices bursátiles del mundo y el más antiguo, funciona de esta forma. (ING, 2021).
 
     .row.justify-content-center.mb-5(data-aos="fade-down-right")
       .col-12.col-lg-12

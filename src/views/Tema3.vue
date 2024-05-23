@@ -36,10 +36,10 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10(data-aos="zoom-in-down")
         .titulo-sexto.color-acento-contenido.mb-5
-          p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Características del mercado monetario.</em>
+          p.titulo.pb-0.mb-0 #[b Figura 7.] <em>Características del mercado monetario.</em>
         figure
-          img.mb-2.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema3/img-2-v1.svg', alt='')
-          img.mb-2.d-block.d-md-none(src='@/assets/curso/temas/tema3/img-2-v2.svg', alt='')
+          img.mb-2.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema3/img-2-v1.svg', alt='Imagen que relaciona las características presentes en el mercado monetario; entre ellas la capitalización, la flexibilidad y las entidades presentes, entre otras.')
+          img.mb-2.d-block.d-md-none(src='@/assets/curso/temas/tema3/img-2-v2.svg', alt='Imagen que relaciona las características presentes en el mercado monetario; entre ellas la capitalización, la flexibilidad y las entidades presentes, entre otras.')
     
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")

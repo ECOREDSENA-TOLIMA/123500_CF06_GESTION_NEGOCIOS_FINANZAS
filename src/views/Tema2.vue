@@ -8,15 +8,17 @@
       h1 Fuentes y usos del efectivo
 
     p Uno de los objetivos principales de la administración y gestión financiera es la generación estratégica de políticas que contribuyan a la consecución de recursos de bajos costos, que garanticen un tiempo adecuado para su uso o aplicación en actividades que sean rentables a la empresa.
-    p.mb-5 Dichas estrategias proveen herramientas de análisis organizacionales, que permiten diagnosticar la evolución de la relación entre las fuentes que originan la consecución de los recursos, tales como el efectivo, y el uso que se les está dando a los mismos. Este análisis permite evaluar la pertinencia de las decisiones con las que se define la manera de cómo se obtienen los recursos y en qué se gastan. Así mismo, dicho análisis permite considerar otras opciones que mejoren estos procesos de obtención y gastos y hacer proyecciones a futuro sobre su comportamiento, buscando mejorar la situación financiera de las empresas, como se presenta en los siguientes casos. 
+    p.mb-5 Dichas estrategias proveen herramientas de análisis organizacionales, que permiten diagnosticar la evolución de la relación entre las fuentes que originan la consecución de los recursos, tales como el efectivo, y el uso que se les está dando a los mismos. Este análisis permite evaluar la pertinencia de las decisiones con las que se define la manera de cómo se obtienen los recursos y en qué se gastan. Así mismo, dicho análisis permite considerar otras opciones que mejoren estos procesos de obtención y gastos y proyecciones a futuro sobre su comportamiento, buscando mejorar la situación financiera de las empresas, como se presenta en los siguientes casos.
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-down")
       .col-12
+        .titulo-sexto.color-acento-contenido.mb-5
+          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Obtención y gastos</em>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/img-1-v1.svg', alt='')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/img-1-v2.svg', alt='') 
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/img-1-v1.svg', alt='Infografía que relaciona los aspectos a tener en cuenta al momento de la obtención y gastos financieros, desatacando los siguientes caso: 1. Específico del efectivo. 2. Balance detallado. 3. Análogo.')  
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/img-1-v2.svg', alt='Infografía que relaciona los aspectos a tener en cuenta al momento de la obtención y gastos financieros, desatacando los siguientes caso: 1. Específico del efectivo. 2. Balance detallado. 3. Análogo.') 
 
-    p.mb-5(data-aos="fade-right") Conociendo esta información, dadas las estrategias financieras planteadas, la empresa una vez identifique las fuentes que generan los recursos, la cantidad y la tendencia de la generación de estos si es alta o baja, así como reconocer el uso que se le está dando a los recursos para evaluar si son óptimos o, por el contrario, se debe reestructurar la política de usos de estos, dado que se pueden estar presentando una salida improductiva.
+    p.mb-5(data-aos="fade-right") Conociendo esta información, dadas las estrategias financieras planteadas, la empresa una vez identifique las fuentes que generan los recursos, la cantidad y la tendencia de la generación de estos si es alta o baja, así como reconocer el uso que se le está dando a los recursos para evaluar si son óptimos o, por el contrario, se debe reestructurar la política de usos de estos, dado que se pueden estar presentando una salida improductiva. 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
@@ -24,13 +26,12 @@
           p En este sentido, saber cómo se obtienen y cómo se gastan los recursos permite a la empresa prever su comportamiento financiero, lo que conlleva a tomar mejores decisiones financieras respecto a posibles inversiones o, por el contrario, la búsqueda de instrumentos de financiación más convenientes y que mejor se adapten a la realidad financiera de la organización.
 
     Separador 
-
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1. Inversión 
 
     p(data-aos="fade-right") A medida que las empresas desarrollan sus actividades económicas, y si este desarrollo les permite robustecer sus recursos, la evolución de la economía y la aparición de nuevas formas de mercado y tendencias empresariales, entre otras circunstancias tanto económicas como sociales, obligan a que todas las empresas busquen evolucionar e incluso innovar en sus estrategias de crecimiento e incursionar en nuevos mercados.
-    p(data-aos="fade-right") Para el efecto, surge la necesidad de establecer estrategias que integren los recursos obtenidos durante el desarrollo de sus actividades económicas para obtener herramientas que les permitan incursionar en nuevos mercados y obtener otras alternativas para obtener nuevos beneficios económicos. 
-    p.mb-5(data-aos="fade-right") Una de las estrategias más conocidas, en este sentido, son las #[strong inversiones], que consisten en usar los recursos con los que cuenta la empresa, llámense activos, tiempo, trabajo o capital, para obtener un beneficio a futuro. 
+    p(data-aos="fade-right") Para el efecto, surge la necesidad de establecer estrategias que integren los recursos obtenidos durante el desarrollo de sus actividades económicas para obtener herramientas que les permitan incursionar en nuevos mercados y obtener otras alternativas para obtener nuevos beneficios económicos.
+    p.mb-5(data-aos="fade-right") Una de las estrategias más conocidas, en este sentido, son las inversiones, que consisten en usar los recursos con los que cuenta la empresa, llámense activos, tiempo, trabajo o capital, para obtener un beneficio a futuro.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-down")
       .bloque-texto-g__img(
@@ -130,13 +131,15 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
-        p Ahora bien, el mercado financiero respectos los instrumentos que ofrece es tan variado que, dados las cualidades, condiciones de cada instrumentos y necesidades o intereses del interesado, sería casi imposible determinar cuál sería la mejor opción a la hora de decidir invertir en cualquiera de estos; pero, siendo el objetivo el otorgar herramientas con las cuales el analista logre identificar estas variables y determinar cuál será para su caso la mejor decisión, es pertinente informar que, a modo general, para cualquier inversión siempre es posible identificar cuatro factores que indican cuál es la opción que cómo inversores más conviene; estas son: 
+        p Ahora bien, el mercado financiero respecto los instrumentos que ofrece es tan variado que, dados las cualidades, condiciones de cada instrumentos y necesidades o intereses del interesado, sería casi imposible determinar cuál sería la mejor opción a la hora de decidir invertir en cualquiera de estos; pero, siendo el objetivo el otorgar herramientas con las cuales el analista logre identificar estas variables y determinar cuál será para su caso la mejor decisión, es pertinente informar que, a modo general, para cualquier inversión siempre es posible identificar cuatro factores que indican cuál es la opción que cómo inversores más conviene; estas son:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-down")
       .col-12
+        .titulo-sexto.color-acento-contenido.mb-5
+          p.titulo.pb-0.mb-0 #[b Figura 4.] <em>Factores financieros</em>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/img-4-v1.svg', alt='')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/img-4-v2.svg', alt='') 
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/img-4-v1.svg', alt='Imagen que indica los siguientes cuatro factores presentes en el mercado financiero, los cuales se debe detallar al momento de hace cualquier análisis de inversión.')  
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/img-4-v2.svg', alt='Imagen que indica los siguientes cuatro factores presentes en el mercado financiero, los cuales se debe detallar al momento de hace cualquier análisis de inversión.') 
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in-down")
       .bloque-texto-g__img(
@@ -155,10 +158,10 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-10(data-aos="zoom-in-down")
         .titulo-sexto.color-acento-contenido.mb-5
-          p.titulo.pb-0.mb-0 #[b Figura 2.] <em>Fuentes de financiación</em>
+          p.titulo.pb-0.mb-0 #[b Figura 5.] <em>Fuentes de financiación</em>
         figure
-          img.mb-2.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/img-6-v1.svg', alt='')
-          img.mb-2.d-block.d-md-none(src='@/assets/curso/temas/tema2/img-6-v2.svg', alt='')
+          img.mb-2.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/img-6-v1.svg', alt='Imagen que relaciona las fuentes de financiación con las características presentes en cada una.')
+          img.mb-2.d-block.d-md-none(src='@/assets/curso/temas/tema2/img-6-v2.svg', alt='Imagen que relaciona las fuentes de financiación con las características presentes en cada una.')
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
@@ -167,10 +170,10 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-10.col-lg-12(data-aos="zoom-in-down")
         .titulo-sexto.color-acento-contenido.mb-5
-          p.titulo.pb-0.mb-0 #[b Figura 3.] <em>Características de las fuentes de financiación</em>
+          p.titulo.pb-0.mb-0 #[b Figura 6.] <em>Características de las fuentes de financiación</em>
         figure
-          img.mb-2.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/img-7-v1.svg', alt='')
-          img.mb-2.d-block.d-md-none(src='@/assets/curso/temas/tema2/img-7-v2.svg', alt='')
+          img.mb-2.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/img-7-v1.svg', alt='Esquema que relaciona las características presentes en la financiación.')
+          img.mb-2.d-block.d-md-none(src='@/assets/curso/temas/tema2/img-7-v2.svg', alt='Esquema que relaciona las características presentes en la financiación.')
     
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
