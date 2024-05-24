@@ -45,6 +45,30 @@
       .col-10(data-aos="zoom-in-down")
         p Dada la condición de los participantes, el origen de sus recursos y las condiciones sobre las que se celebra el intercambio financiero, entre las que destacan la liquidez, riesgo y tiempo, dentro de los mercados monetarios, se destacan tres tipos:
     
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+      .row(titulo="Mercados monetarios interbancarios")
+        .col-md-6.mb-4.mb-md-0
+          p En los sistemas financieros es muy común que algunas entidades financieras acudan a otras para pedir financiación, esto se debe a que los bancos no cuentan con necesidades suficientes de depósitos, para hacer frente a una gran operación financiera o porque quieran hacer partícipe a otras entidades de una operación financiera importante.
+          p Se habla de mercados interbancarios cuando los bancos u otras instituciones financieras, se prestan dinero unos a otros a un precio o interés determinado, generalmente a un plazo muy corto, lo que garantiza un bajo riesgo ofreciendo a estos una elevada liquidez. En este tipo de mercado las instituciones acuden a negociar grandes cantidades de recursos que son generalmente excedentes de liquidez y tesorería, recursos que ofrecen como financiación a otras entidades financieras.
+          p Con el precio que unos bancos cobran a otros por el préstamo de dinero, surgen indicadores económicos de valorización que fijan los precios de instrumentos financieros o las rentabilidades que estos pueden ofrecer en un tiempo determinado.
+        .col-md-6.mb-4.mb-md-0
+          figure
+            img(src='@/assets/curso/temas/tema3/ac-1.png', alt='')
+        .col-12
+          p En este mercado las entidades financieras realizan operaciones de préstamos y crédito mediante depósitos interbancarios, derivados de corto plazo o #[em Forward Rate Agreement (FRAs)], swaps de tipos de interés a corto plazo u otros activos financieros, generalmente con vencimiento de un día o una semana.
+      .row(titulo="Mercado de activos empresariales")
+        .col-md-6.mb-4.mb-md-0
+          p Para este tipo de mercado son las empresas quienes emiten instrumentos financieros con los que ceden a sus poseedores derechos u ofrecen a través de contratos una obligación de pago a corto plazo para los que la garantía son ellas mismas, instrumentos con los que buscan fuentes de financiación para sus operaciones, dentro de estos se destacan los pagarés de empresa.
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/tema3/ac-2.png', alt='')
+      .row(titulo="Mercado monetario de deuda pública")
+        .col-md-6.mb-4.mb-md-0
+          p En este tipo de mercado, el emisor de los instrumentos financieros son la nación o los gobiernos subnacionales (gobernaciones y alcaldías), quienes, con el objetivo de buscar instrumentos de financiación de gastos públicos, emiten instrumentos como bonos o títulos valores conocidos como títulos de deuda pública TES con los que la entidad territorial se compromete a pagar a su poseedor una rentabilidad en un tiempo determinado, que generalmente no es mayor a un año. 
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/tema3/ac-3.png', alt='')
+
     Separador 
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
