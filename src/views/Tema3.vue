@@ -55,7 +55,7 @@
           figure
             img(src='@/assets/curso/temas/tema3/ac-1.png', alt='')
         .col-12
-          p En este mercado las entidades financieras realizan operaciones de préstamos y crédito mediante depósitos interbancarios, derivados de corto plazo o #[em Forward Rate Agreement (FRAs)], swaps de tipos de interés a corto plazo u otros activos financieros, generalmente con vencimiento de un día o una semana.
+          p En este mercado las entidades financieras realizan operaciones de préstamos y crédito mediante depósitos interbancarios, derivados de corto plazo o #[em Forward Rate Agreement (FRAs)], #[em swaps] de tipos de interés a corto plazo u otros activos financieros, generalmente con vencimiento de un día o una semana.
       .row(titulo="Mercado de activos empresariales")
         .col-md-6.mb-4.mb-md-0
           p Para este tipo de mercado son las empresas quienes emiten instrumentos financieros con los que ceden a sus poseedores derechos u ofrecen a través de contratos una obligación de pago a corto plazo para los que la garantía son ellas mismas, instrumentos con los que buscan fuentes de financiación para sus operaciones, dentro de estos se destacan los pagarés de empresa.
