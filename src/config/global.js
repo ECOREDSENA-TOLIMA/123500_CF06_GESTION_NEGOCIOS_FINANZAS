@@ -210,12 +210,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -225,12 +225,12 @@ export default {
       autores: [
         {
           nombre: 'Jair Yovanny Castro Morales',
-          cargo: 'Experto temático',
+          cargo: 'Experto Temático',
           centro: 'Regional Tolima - Centro Agropecuario La Granja',
         },
         {
           nombre: 'Miroslava González Hernández',
-          cargo: 'Diseño y evaluación instruccional',
+          cargo: 'Diseño y Evaluación Instruccional',
           centro:
             'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
         },
@@ -247,12 +247,12 @@ export default {
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrección de estilo',
+          cargo: 'Corrección de Estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Evaluación instruccional',
+          cargo: 'Evaluación Instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -262,17 +262,17 @@ export default {
       autores: [
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Producción audiovisual',
+          cargo: 'Producción Audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
-          cargo: 'Producción audiovisual',
+          cargo: 'Producción Audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Oscar Iván Uribe Ortiz',
-          cargo: 'Diseño web',
+          cargo: 'Diseño Web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -281,7 +281,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Francisco José Vásquez Suárez',
+          nombre: 'Oscar Daniel Espitia Marin',
           cargo: 'Desarrollo Fullstack',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -292,12 +292,12 @@ export default {
       autores: [
         {
           nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          cargo: 'Evaluación de Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo: 'Validación de Recursos Educativos Digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
