@@ -65,7 +65,7 @@
             p En este horizonte temporal, el inversor espera recuperar su inversión entre uno y tres años, periodo de tiempo que aún no garantiza la recuperación de los mercados financieros en caso de caídas financieras; por este, motivo se recomienda optar por fondos de inversión mixtos que dirijan los recursos a inversiones de renta fija y variable.
           
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="16%" y="61%" numero="04")
-            p Son fondos de inversión que garantizan la entrega de rentabilidades solo en un plazo mayor a tres años. En este sentido, el activo más recomendable para invertir cuando se dispone de mucho tiempo es el activo financiero de renta variable, dado que es el que ofrece mejor rentabilidad a largo plazo,
+            p Son fondos de inversión que garantizan la entrega de rentabilidades solo en un plazo mayor a tres años. En este sentido, el activo más recomendable para invertir cuando se dispone de mucho tiempo es el activo financiero de renta variable, dado que es el que ofrece mejor rentabilidad a largo plazo.
             p Por otro lado, si el inversor considera emplear sus recursos en activos de mayor riesgo, debido a que son los que mayores rentabilidades ofrecen, el horizonte temporal por el cual debería hacer la inversión es el largo plazo, ya que, si se dispone de tiempo, el mercado podrá hacer las habituales correcciones financieras, sin tener que preocuparse por las caídas en los mercados cerca del tiempo fijado para la recuperación de la inversión.
           
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="27.5%" y="30%" numero="05")
@@ -95,16 +95,16 @@
             p Esta clasificación hace referencia a los instrumentos financieros por los cuales se desea invertir, haciendo énfasis en el sector económico al cual pertenecen, entre estos se pueden reconocer tres sectores.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="56.5%" y="43%" numero="13")
-            p Bajo esta modalidad el ente económico inversor decide emplear parte de los recursos de la empresa en el financiamiento de bien sea otras empresas o en la incursión en nuevas formas de negocio que le permitan obtener nuevos ingresos o rentas a largo plazo.
+            p Bajo esta modalidad, el ente económico inversor decide emplear parte de los recursos de la empresa en el financiamiento de bien sea otras empresas o en la incursión en nuevas formas de negocio que le permitan obtener nuevos ingresos o rentas a largo plazo.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="56.5%" y="52%" numero="14")
-            p En este tipo de inversiones, la empresa hace uso de los recursos diseccionándolos a modelos de negocio que en general no están relacionadas con la actividad ordinaria de la empresa pero que sí le podrían significar la recepción de nuevos ingresos a la empresa, un ejemplo de este tipo de inversión son los préstamos a socios donde se establece el pago de intereses.
+            p En este tipo de inversiones, la empresa hace uso de los recursos diseccionándolos a modelos de negocio que en general no están relacionadas con la actividad ordinaria de la empresa, pero que sí le podrían significar la recepción de nuevos ingresos a la empresa, un ejemplo de este tipo de inversión son los préstamos a socios donde se establece el pago de intereses.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="56.5%" y="61%" numero="15")
             p Se centra en la adquisición de instrumentos del mercado financiero, como derechos no tangibles, que generalmente garantizan pagar rendimientos a corto, mediano o largo plazo. Dadas estas condiciones, este sector ofrece opciones de inversión muy variables, que a su vez no exigen el pago de altas sumas de dinero para la adquisición los títulos de inversión, por ser un mercado tan dinámico los inversores podrían o no obtener sus primeras rentabilidades incluso en días, que podrían ser altas o bajas de acuerdo al nivel de riesgo de cada instrumento financiero.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="69%" y="30%" numero="16")
-            p Este sector enmarca las inversiones agrupándolas según el origen del capital con que cuentan los entes que ofrecen los instrumentos financieros. Se reconocen dos tipos.
+            p Este sector enmarca las inversiones, agrupándolas según el origen del capital con que cuentan los entes que ofrecen los instrumentos financieros. Se reconocen dos tipos.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="75%" y="43%" numero="17")
             p En este tipo se manejan ofertas financieras que provienen de modelos de negocios con capital privado. En este sentido, su variedad es muy extensa y agrupa casi cualquier actividad social o comercial, en general ofrecen el pago de rentabilidades a través de figuras como pago de dividendos.
@@ -119,7 +119,7 @@
             p Este tipo de inversión se centra en las necesidades o condiciones individuales del interesado. Se caracteriza por su flexibilidad a la hora de establecer las características del negocio, al punto que crea un instrumento financiero hecho a la medida de cada cliente. En este sentido, se resalta la asesoría ofrecida por la entidad administradora de los recursos, pues no solo se encarga de gestionar los recursos del inversor, sino que también le asesora respecto a qué metas reales son alcanzables y cuáles no.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="98.5%" y="56%" numero="21") 
-            p A diferencia de la inversión personalista, la generalista ofrece modelos de negocio con condiciones ya establecidas en cuanto a nivel de riesgo, rentabilidad y horizonte temporal. El catálogo de instrumentos financieros es tan variado que va dirigido a casi cualquier público, y es este el que decide en cuál invertir según se adapte o no a sus necesidades; en este sentido, es el inversor el que se adapta a al instrumento y no al contrario.
+            p A diferencia de la inversión personalista, la generalista ofrece modelos de negocio con condiciones ya establecidas en cuanto a nivel de riesgo, rentabilidad y horizonte temporal. El catálogo de instrumentos financieros es tan variado que va dirigido a casi cualquier público, y es este el que decide en cuál invertir según se adapte o no a sus necesidades; en este sentido, es el inversor el que se adapta al instrumento y no al contrario.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-10.col-md-10.col-lg-12.movil(data-aos="fade-right")
@@ -131,7 +131,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-10(data-aos="zoom-in-down")
-        p Ahora bien, el mercado financiero respecto los instrumentos que ofrece es tan variado que, dados las cualidades, condiciones de cada instrumentos y necesidades o intereses del interesado, sería casi imposible determinar cuál sería la mejor opción a la hora de decidir invertir en cualquiera de estos; pero, siendo el objetivo el otorgar herramientas con las cuales el analista logre identificar estas variables y determinar cuál será para su caso la mejor decisión, es pertinente informar que, a modo general, para cualquier inversión siempre es posible identificar cuatro factores que indican cuál es la opción que cómo inversores más conviene; estas son:
+        p Ahora bien, el mercado financiero respecto los instrumentos que ofrece es tan variado que, dadas las cualidades, condiciones de cada instrumento y necesidades o intereses del interesado, sería casi imposible determinar cuál sería la mejor opción a la hora de decidir invertir en cualquiera de estos; pero, siendo el objetivo el otorgar herramientas con las cuales el analista logre identificar estas variables y determinar cuál será para su caso la mejor decisión, es pertinente informar que, a modo general, para cualquier inversión siempre es posible identificar cuatro factores que indican cuál es la opción que cómo inversores más conviene; estas son:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-down")
       .col-12
@@ -197,25 +197,25 @@
             p Entre este tipo de fuente se encuentran: el capital social, las reservas, los beneficios no distribuidos, que pueden ser usados para ampliar el capital, las provisiones definidas para cubrir posibles pérdidas a futuro, o las amortizaciones con las que se prevé evitar la descapitalización de la empresa a causa del envejecimiento de los activos. 
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="50%" y="28%" numero="04")
-            p Son fuentes de financiación que provienen de entes económicos ajenos a las actividades ordinarias de la empresa, en este tipo las fuentes más comunes son las aportaciones de capital de los socios.
+            p Son fuentes de financiación que provienen de entes económicos ajenos a las actividades ordinarias de la empresa, en este tipo, las fuentes más comunes son las aportaciones de capital de los socios.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="67%" y="28%" numero="05")
-            p Negocio financiero en el que a través de la firma de un contrato dos o más personas físicas o jurídicas, para obtener un dinero, se compromete devolver la inversión inicial más los rendimientos generados en un plazo determinado.
+            p Negocio financiero en el que a través de la firma de un contrato, dos o más personas físicas o jurídicas, para obtener un dinero, se compromete a devolver la inversión inicial más los rendimientos generados en un plazo determinado.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="84%" y="28%" numero="06")
             p Se caracterizan por ser una operación de financiación a un actor o entidad financiera llamado acreedor, quien presta una cifra monetaria a otro llamado deudor, quien a partir de ese momento garantiza el retorno de la cantidad pedida en préstamo al cumplimiento de un tiempo estipulado; periodo en el que también deberá pagar al acreedor un rendimiento adicional llamado interés, más los gastos de administración subyacentes del negocio.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="33%" y="52%" numero="07")
-            p Es un tipo de contrato financiero en el que una empresa o persona real cede a otra el uso de un bien y está en contraprestación se compromete a cumplir con el pago de unas cuotas de arrendamiento periódicas durante el tiempo establecido previamente. Al término de este contrato, el usuario del bien podrá ejercer una opción de compra sobre este.
+            p Es un tipo de contrato financiero en el que una empresa o persona real cede a otra el uso de un bien y está en contraprestación, se compromete a cumplir con el pago de unas cuotas de arrendamiento periódicas durante el tiempo establecido previamente. Al término de este contrato, el usuario del bien podrá ejercer una opción de compra sobre este.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="50%" y="52%" numero="08")
-            p Para este tipo de financiación la empresa cede las deudas que tiene por cobrar a favor de un tercero, generalmente una entidad financiera, a cambio de un valor monetario pactado.
+            p Para este tipo de financiación, la empresa cede las deudas que tiene por cobrar a favor de un tercero, generalmente una entidad financiera, a cambio de un valor monetario pactado.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="67%" y="52%" numero="09")
-            p Es un producto financiero, en el que un deudor cede la administración de su obligaciones o pagos a sus acreedores, a una entidad financiera, para que esta se encargue de dichos pagos, y a cambio pueda cobrar una comisión por la administración del negocio.
+            p Es un producto financiero, en el que un deudor cede la administración de sus obligaciones o pagos a sus acreedores, a una entidad financiera, para que esta se encargue de dichos pagos, y a cambio pueda cobrar una comisión por la administración del negocio.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="84%" y="52%" numero="10")
-            p En este caso el emisor de la deuda cede sus derechos de cobro a una entidad financiera para que ésta proceda con el pago anticipado de las mismas y a su vez cobre comisiones e intereses.
+            p En estos casos el emisor de la deuda cede sus derechos de cobro a una entidad financiera para que ésta proceda con el pago anticipado de las mismas y a su vez cobre comisiones e intereses.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="33%" y="75%" numero="11")
             p Es un título de crédito formal en el que una persona real o jurídica firmante se compromete a pagar a otra beneficiaria o tenedora una cantidad de dinero al final de un plazo de tiempo plenamente establecido.
@@ -224,7 +224,7 @@
             p Es un tipo de financiación colectiva en el que se usa el capital de varios individuos, a través de pequeñas donaciones, que después serán invertidos en la financiación de pequeños proyectos personales o sociales.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="67%" y="75%" numero="13")
-            p Es una fuente de financiación colectiva en la que pequeños inversores prestan su dinero a una empresa con el objetivo a futuro recuperar el valor inicial de su inversión más el pago de unos intereses. Es una alternativa a los préstamos bancarios.
+            p Es una fuente de financiación colectiva en la que pequeños inversores prestan su dinero a una empresa con el objetivo a futuro de recuperar el valor inicial de su inversión más el pago de unos intereses. Es una alternativa a los préstamos bancarios.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="84%" y="75%" numero="14")
             p Fuente de financiación en la que, compañías generalmente pequeñas o nuevas ofrecen grandes posiciones en su capital, a aquellos inversores que se ofrecen invertir y hacer crecer el negocio.

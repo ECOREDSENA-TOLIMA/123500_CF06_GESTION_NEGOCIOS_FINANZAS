@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Mercados financieros y destinación del efectivo',
     descripcionCurso:
-      'Las estrategias financieras pertinentes y bien estructuradas, que garanticen la consecución de fuentes de ingresos, representan herramientas fundamentales para el funcionamiento de las empresas puesto que estas sustentarán la marcha continua de sus operaciones, además de permitir a las organizaciones crear políticas de gasto e inversión que hagan más eficiente el uso del efectivo.',
+      'Las estrategias financieras pertinentes y bien estructuradas, que garanticen la consecución de fuentes de ingresos, representan herramientas fundamentales para el funcionamiento de las empresas, puesto que estas sustentarán la marcha continua de sus operaciones, además de permitir a las organizaciones crear políticas de gasto e inversión que hagan más eficiente el uso del efectivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -145,14 +145,14 @@ export default {
     {
       tema: '1. Activos y pasivos financieros',
       referencia:
-        'AulaDeEconomia. (2022). Activos financieros - rentabilidad, riesgo y liquidez [video]. Youtube. https://www.youtube.com/watch?v=Dcbgadkrehw',
+        'AulaDeEconomia. (2022). Activos financieros - rentabilidad, riesgo y liquidez [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Dcbgadkrehw',
     },
     {
       tema: '3. Mercados financieros',
       referencia:
-        'EALDE Business School. (marzo 5, 2018). Análisis del Riesgo de Crédito y de Mercado en los Instrumentos Financieros [video]. Youtube. https://www.youtube.com/watch?v=_q9UcSkbjh0&t=3s',
+        'EALDE Business School. (marzo 5, 2018). Análisis del Riesgo de Crédito y de Mercado en los Instrumentos Financieros [video]. Youtube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=_q9UcSkbjh0&t=3s',
     },
@@ -179,29 +179,30 @@ export default {
     {
       termino: 'Emisor',
       significado:
-        'Entidad pública o privada que emite la deuda, es decir, los títulos. Es la entidad que pide la deuda. (ZonaValue.com, 2019)',
+        'Entidad pública o privada que emite la deuda, es decir, los títulos. Es la entidad que pide la deuda. (ZonaValue.com, 2019).',
     },
     {
       termino: 'Fecha de vencimiento',
       significado:
-        'Momento en el que el emisor debe devolver el dinero, momento en que termina el préstamo. (ZonaValue.com, 2019)',
+        'Momento en el que el emisor debe devolver el dinero, momento en que termina el préstamo. (ZonaValue.com, 2019).',
     },
     {
       termino: 'Principal o nominal del bono',
       significado:
-        'Cantidad de dinero que pide prestado el emisor, correspondiente a cada título. (ZonaValue.com, 2019)',
+        'Cantidad de dinero que pide prestado el emisor, correspondiente a cada título. (ZonaValue.com, 2019).',
     },
   ],
   referencias: [
     {
-      referencia: 'ING. (2021). ¿Cómo se miden los índices bursátiles?',
+      referencia: 'ING. (2021). ¿Cómo se miden los índices bursátiles? ',
       link:
-        'https://www.ing.es/ennaranja/invertir-dinero/conceptos-utiles/indices-bursatiles-como-se-miden/#',
+        'https://www.ing.es/ennaranja/invertir-dinero/bolsa-y-mercados/indices-bursatiles-como-se-miden/#:~:text=Se%20calculan%20como%20una%20media,de%20empresas%20que%20lo%20forman',
     },
     {
-      referencia: 'ZonaValue.com. (2019). Argentina, invertir en renta fija.',
+      referencia:
+        'ZonaValue.com. (2019). Argentina, invertir en renta fija de países emergentes ¿Qué oportunidades existen? ',
       link:
-        'https://stagingclon.zonavalue.com/blog/nivel-principiante/argentina-invertir-en-renta-fija',
+        'https://zonavalue.com/zonavalue-tv/invertir-en-renta-fija-de-paises-emergentes-que-oportunidades-existen',
     },
   ],
   creditos: [
@@ -210,13 +211,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Equipo',
+          cargo: 'Líder Ecosistema de Recursos Educativos Digitales',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          cargo: 'Responsable Línea de Producción Virtual Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -230,30 +231,30 @@ export default {
         },
         {
           nombre: 'Miroslava González Hernández',
-          cargo: 'Diseño y Evaluación Instruccional',
+          cargo: 'Diseñador Instruccional',
           centro:
             'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Asesoría Metodológica',
-          centro: 'Regional Distrito Capital, Centro de Diseño y Metrología',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable Equipo de Desarrollo Curricular',
           centro:
-            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrección de Estilo',
+          cargo: 'Correctora de Estilo',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
-          cargo: 'Evaluación Instruccional',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          cargo: 'Evaluador Instruccional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -263,27 +264,27 @@ export default {
         {
           nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Producción Audiovisual',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
           cargo: 'Producción Audiovisual',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oscar Iván Uribe Ortiz',
           cargo: 'Diseño Web',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Diego Fernando Velasco Guiza',
           cargo: 'Desarrollo Fullstack',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oscar Daniel Espitia Marin',
           cargo: 'Desarrollo Fullstack',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -293,12 +294,12 @@ export default {
         {
           nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Evaluación de Contenidos Inclusivos y Accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación de Recursos Educativos Digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },

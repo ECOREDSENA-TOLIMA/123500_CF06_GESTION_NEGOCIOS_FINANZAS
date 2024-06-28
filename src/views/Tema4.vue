@@ -131,16 +131,16 @@
 
           .row(titulo="De renta fija")
             .col-md-12.mb-4.mb-md-0
-              p A esta categoría pertenecen los indicadores que siguen las cotizaciones de títulos de renta fija como los bonos de gobierno o de las compañías que devenguen intereses variables en función de las condiciones del mercado, como los préstamos o pagarés.
+              p A esta categoría pertenecen los indicadores que siguen las cotizaciones de títulos de renta fija, como los bonos de gobierno o de las compañías que devenguen intereses variables en función de las condiciones del mercado, como los préstamos o pagarés.
 
           .row(titulo="De materias primas")
             .col-md-12.mb-4.mb-md-0
-              p Se trata de indicadores que reúnen las cotizaciones de diversos sectores de materias primas como son el índice de precios de materias primas agrícolas o el índice de cotización de metales preciosos como el oro o la plata.
+              p Se trata de indicadores que reúnen las cotizaciones de diversos sectores de materias primas, como son el índice de precios de materias primas agrícolas o el índice de cotización de metales preciosos como el oro o la plata.
 
     Separador 
 
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.2. Métodos de cálculo de índices bursátiles.s
+      h2 4.2. Métodos de cálculo de índices bursátiles
 
     p.mb-5 Existe más de una forma de calcular un índice bursátil, pero la mayoría de métodos tienen en común dos elementos, el primero es que todos se miden en puntos, que a su vez dependen del precio de los activos que los componen y el segundo es que todos cuentan con un punto de partida, una fecha de inicio.
     
@@ -192,7 +192,7 @@
               img(src='@/assets/curso/temas/tema4/img-8.png', alt='')
           .col-md-12.mb-4.mb-md-0
             h4.my-3 Índices ponderados según la capitalización Bursátil <em>(Market Value-Weighted Index Mvwi)</em>
-            p También conocido como índice ponderado por valor de mercado. Este método es el más usado ya que compone los más representativos del mercado. Para los índices en este método se toma en cuenta el número de acciones en circulación de la compañía por el precio de la acción en un momento dado; esto es lo que se llama capitalización bursátil.
+            p También conocido como índice ponderado por valor de mercado. Este método es el más usado, ya que compone los más representativos del mercado. Para los índices en este método se toma en cuenta el número de acciones en circulación de la compañía por el precio de la acción en un momento dado; esto es lo que se llama capitalización bursátil.
             p De esta manera, la capitalización de mercado refleja el valor de mercado total de las acciones en circulación de una empresa, así mismo, utiliza la capitalización de mercado de una empresa para determinar cuánto impacto puede tener este valor en particular en los resultados generales del índice, puesto que la capitalización del mercado se deriva del valor de las acciones en circulación.
             p Para encontrar el valor de un índice ponderado por capitalización, primero se multiplica el precio de mercado de cada componente por el total de acciones en circulación para llegar al valor de mercado total, la porción del valor de la acción con el valor de mercado total general de los componentes del índice proporción a la ponderación de la empresa en el índice.
             p Para el caso colombiano, el COLCAP es el índice de referencia de la Bolsa de Valores De Colombia BVC. Este indicador refleja las variaciones de los precios de las 20 acciones de la BVC, en donde el valor de la capitalización bursátil ajustada de cada compañía determina su nivel de ponderación.
@@ -206,7 +206,7 @@
             h4.my-3 Índices no ponderados <em>(Price-Weighted Index PWI)</em>
             p En este caso, se consideran los precios de las acciones que componen el índice y se obtiene como una media aritmética del precio de estas. En este cálculo se suma el precio de los títulos y se divide el resultado en el número total de las empresas que lo conforman.
             p Bajo esta modalidad de cálculo, la acción que poseen un mayor valor influye más en la evolución del índice, sin importar el tamaño real de la empresa o la importancia de esta en la economía del país.
-            p Los índices no ponderados representan una minoría frente a los índices ponderado; sin embargo, el Dow Jones Industrial Average, que es uno de los principales índices bursátiles del mundo y el más antiguo, funciona de esta forma. (ING, 2021).
+            p Los índices no ponderados representan una minoría frente a los índices ponderados; sin embargo, el Dow Jones Industrial Average, que es uno de los principales índices bursátiles del mundo y el más antiguo, funciona de esta forma. (ING, 2021).
 
     .row.justify-content-center.mb-5(data-aos="fade-down-right")
       .col-12.col-lg-12
@@ -226,7 +226,7 @@
                     span Descargar
                     i.fas.fa-file-download
 
-    p Dado el amplio universo de elementos, formas y propuestas que encierran el mundo de los mercados financieros, es imperativo lograr reconocer la amplia  gama de posibilidades de negocios que estos nos representan, más aún en un ambiente económico tan diverso y en constante evolución,  poder reconocer y aprovechar estas posibilidades significa estar ad portas de lograr una ventaja competitiva frente a aquellos que sustentan su actividad económica del aprovechamiento de la negociación de títulos valores.
+    p Dado el amplio universo de elementos, formas y propuestas que encierran el mundo de los mercados financieros, es imperativo lograr reconocer la amplia  gama de posibilidades de negocios que estos nos representan, más aún en un ambiente económico tan diverso y en constante evolución,  poder reconocer y aprovechar estas posibilidades significa estar #[em ad portas] de lograr una ventaja competitiva frente a aquellos que sustentan su actividad económica del aprovechamiento de la negociación de títulos valores.
     p.mb-5 En este contexto conocer las características y saber entender e interpretar el comportamiento de los indicadores bursátiles representa la herramienta por excelencia que ayudará a los analistas de este tipo de mercados a encontrar las oportunidades de inversión más efectivas, que al final es la razón de ser de un buen analista de mercados financieros.
 
 

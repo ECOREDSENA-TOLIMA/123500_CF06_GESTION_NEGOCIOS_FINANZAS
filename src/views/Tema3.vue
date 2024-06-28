@@ -49,7 +49,7 @@
       .row(titulo="Mercados monetarios interbancarios")
         .col-md-6.mb-4.mb-md-0
           p En los sistemas financieros es muy común que algunas entidades financieras acudan a otras para pedir financiación, esto se debe a que los bancos no cuentan con necesidades suficientes de depósitos, para hacer frente a una gran operación financiera o porque quieran hacer partícipe a otras entidades de una operación financiera importante.
-          p Se habla de mercados interbancarios cuando los bancos u otras instituciones financieras, se prestan dinero unos a otros a un precio o interés determinado, generalmente a un plazo muy corto, lo que garantiza un bajo riesgo ofreciendo a estos una elevada liquidez. En este tipo de mercado las instituciones acuden a negociar grandes cantidades de recursos que son generalmente excedentes de liquidez y tesorería, recursos que ofrecen como financiación a otras entidades financieras.
+          p Se habla de mercados interbancarios cuando los bancos u otras instituciones financieras, se prestan dinero unos a otros a un precio o interés determinado, generalmente a un plazo muy corto, lo que garantiza un bajo riesgo ofreciendo a estos una elevada liquidez. En este tipo de mercado, las instituciones acuden a negociar grandes cantidades de recursos que son generalmente excedentes de liquidez y tesorería, recursos que ofrecen como financiación a otras entidades financieras.
           p Con el precio que unos bancos cobran a otros por el préstamo de dinero, surgen indicadores económicos de valorización que fijan los precios de instrumentos financieros o las rentabilidades que estos pueden ofrecer en un tiempo determinado.
         .col-md-6.mb-4.mb-md-0
           figure
@@ -108,13 +108,13 @@
           .row(titulo="Mercado de renta variable")
             .col-md-12.mb-4.mb-md-0
               p Es un mercado de valores en el que las empresas emisoras de los instrumentos financieros, ofrecen parte de su capital a modo de acciones, las cuales ofrecen a los inversores derechos sobre la propiedad de los activos reales de la empresa emisora y las utilidades y dividendos que esta pueda generar.
-              p Las acciones son representativas del capital de la empresa; en este sentido, los inversores o accionistas son copropietarios y, por tanto, solidarios con las responsabilidades de la compañía, ejerciendo derecho de participación en las asambleas de la empresa y elección de los representantes de estas que deciden sobre los cambios y expansión de actividades que les propone la junta directiva .
+              p Las acciones son representativas del capital de la empresa; en este sentido, los inversores o accionistas son copropietarios y, por tanto, solidarios con las responsabilidades de la compañía, ejerciendo derecho de participación en las asambleas de la empresa y elección de los representantes de estas que deciden sobre los cambios y expansión de actividades que les propone la junta directiva.
               p Por lo general los instrumentos de renta variable reportan a sus tenedores ganancias o rendimientos en el largo plazo, dado que el pago de estas rentabilidades está sujeta al funcionamiento y la situación económica de la compañía en el tiempo, el valor pagado ya sea en efectivo o en acciones puede varias, de allí su nombre mercado de rentas variable. 
           
           .row(titulo="Mercado de crédito a largo plazo")
             .col-md-12.mb-4.mb-md-0
               p Forma parte del mercado de capitales y se caracteriza por la negociación de instrumentos de deuda a largo plazo, lo que lo diferencia del mercado accionario en el sentido de que lo que se está negociando no es un derecho sino un préstamo.
-              p Es un mercado en el que los que intervienen prestan o piden prestado, así quién pide prestado se obliga al pago del capital ofrecido más los rendimiento o intereses acordados en el tiempo establecido y a su vez el inversor adquiere este instrumento con el propósito de ganar rendimientos mientras financian a los emisores. 
+              p Es un mercado en el que los que intervienen prestan o piden prestado, así quién pide prestado se obliga al pago del capital ofrecido más los rendimientos o intereses acordados en el tiempo establecido y a su vez el inversor adquiere este instrumento con el propósito de ganar rendimientos mientras financian a los emisores. 
               p Dado que esta modalidad de mercado establece un largo plazo para el cumplimiento de las obligaciones, ofrece un grado de rentabilidad alta, pero a su vez dado la volatilidad del mercado representa un grado alto de riesgo. 
               p Entre los tipos de instrumentos más comunes que encontramos en este mercado están los préstamos, los créditos bancarios y los pagarés. 
 
@@ -180,7 +180,7 @@ export default {
       },
       {
         texto:
-          'Existe mayor riesgo al invertir, dado que son mercados que ofrecen altos rendimientos variables lo que conlleva a una alta volatilidad de precios.',
+          'Existe mayor riesgo al invertir, dado que son mercados que ofrecen altos rendimientos variables, lo que conlleva a una alta volatilidad de precios.',
         icono: require('@/assets/curso/temas/tema3/img-4.svg'),
       },
       {

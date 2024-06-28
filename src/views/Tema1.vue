@@ -57,7 +57,7 @@
             p Otros tipos de activos financieros de renta variable que se encuentran en el mercado, de acuerdo con su origen, condiciones y uso en el mercado financiero son: fondos de inversión, bonos convertibles y mercado de divisas.
           
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="37.5%" numero="5" tooltip="Abrir recurso")
-            p Son productos financieros en el que los administradores acumulan el dinero de muchos inversores para después invertirlo en otros instrumentos financieros. Bajo estas condiciones, el valor del fondo de inversión y, por tanto, de las rentabilidades que pueda otorgar dependen de los activos que se contienen dentro del fondo, y de las rentabilidades que a su vez estas inversiones generen.
+            p Son productos financieros en el que los administradores acumulan el dinero de muchos inversores para después invertirlo en otros instrumentos financieros. Bajo estas condiciones, el valor del fondo de inversión y, por tanto, de las rentabilidades que pueda otorgar depende de los activos que se contienen dentro del fondo, y de las rentabilidades que a su vez estas inversiones generen.
           
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="49.5%" numero="6" tooltip="Abrir recurso")
             p Son activos financieros que permiten a su poseedor convertirlo en un tiempo determinado en acciones, y con ello pasar a ser accionista de la empresa generadora del instrumento financiero, en el que tiene diferentes derechos y obligaciones, permitiéndole además recibir dividendos producto de las rentabilidades obtenidas por la misma, las cuales pueden variar acorde a las condiciones económicas y financieras de la empresa.
@@ -72,7 +72,7 @@
             p Corresponde a los activos financieros para los que, de acuerdo a las condiciones contractuales, se estableció que el pago de las rentabilidades debía amortizarse en un plazo o periodo de tiempo corto, que generalmente es inferior a un año, y, por tanto, dado el corto periodo de tiempo que dura la inversión, suele brindar rentabilidades bajas.
           
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="85%" y="89%" numero="10" tooltip="Abrir recurso")
-            p Este tipo de activos agrupa a todos aquellos cuya exigibilidad de pago se establece en un pedido de tiempo superior a un año; dado esta condición, dichos activos representan un mayor riesgo de inversión dado la posibilidad de fluctuación del valor en el mercado y la variabilidad de cambios durante el tiempo de vigencia de la obligación.
+            p Este tipo de activos agrupa a todos aquellos cuya exigibilidad de pago se establece en un periodo de tiempo superior a un año; dado esta condición, dichos activos representan un mayor riesgo de inversión dado la posibilidad de fluctuación del valor en el mercado y la variabilidad de cambios durante el tiempo de vigencia de la obligación.
 
     .row.justify-content-center.align-items-center.mb-3.d-block.d-md-none
       .col-12.mb-2(data-aos="fade-right")
@@ -105,7 +105,7 @@
             p Son las obligaciones adquiridas por la empresa que no están estrechamente relacionadas con sus actividades ordinarias sino más bien con su estructura económica básica; la exigibilidad de dichas obligaciones es superior a un año.
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="90%" y="21.5%" numero="+")
-            p Es el pasivo financiero creado por el ente económico emisor el cual toma como base la valoración de los activos y pasivos con que cuenta al cierre de un ejercicio contable y con el cual busca aliviar los desequilibrios fiscales de la empresa. 
+            p Es el pasivo financiero creado por el ente económico emisor, el cual toma como base la valoración de los activos y pasivos con que cuenta al cierre de un ejercicio contable y con el cual busca aliviar los desequilibrios fiscales de la empresa. 
 
           .tarjeta.color-acento-contenido1.p-3.texto-negro(x="90%" y="40%" numero="+")
             p A diferencia de los pasivos a negociar, los pasivos derivados nacen como producto de un acuerdo comercial entre entes económicos concretos, lo que resulta en intercambio de activos financieros entre estos, y que su vez, establecen condiciones concretas y cláusulas que regulan y exigen cumplimientos de unos requisitos específicos para su retribución. 
