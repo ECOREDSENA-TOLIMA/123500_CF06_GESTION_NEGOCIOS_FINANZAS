@@ -200,7 +200,7 @@ export default {
     },
     {
       referencia:
-        'ZonaValue.com. (2019). Argentina, invertir en renta fija de países emergentes ¿Qué oportunidades existen? ',
+        'ZonaValue.com. (2019). Invertir en renta fija de países emergentes ¿Qué oportunidades existen? ',
       link:
         'https://zonavalue.com/zonavalue-tv/invertir-en-renta-fija-de-paises-emergentes-que-oportunidades-existen',
     },
